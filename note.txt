@@ -1,0 +1,15 @@
+npm install --save react-router-dom
+
+npm i react-redux
+npm i redux
+npm i redux-thunk
+npm i axios
+npm i lodash
+npm i moment
+
+npm i tailwindcss 
+    - cấu hình tailwindcss:  npx tailwindcss init --full
+
+npm i antd --save
+
+npm i history@4.10.0
